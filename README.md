@@ -1,2 +1,5 @@
 # dope-doppler
-subsonics
+
+
+> dope tracking and predictions when going _subsonic_
+
